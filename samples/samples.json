@@ -1,0 +1,70 @@
+[
+  {
+    "id": "starry-night",
+    "title": "The Starry Night",
+    "file": "starry-night.jpg",
+    "thumb": "thumbs/starry-night.jpg",
+    "artist": "Vincent van Gogh",
+    "year": "1889",
+    "credit": "Vincent van Gogh, The Starry Night (1889). Wikimedia Commons",
+    "license": "Public domain",
+    "w": 1920,
+    "h": 1520
+  },
+  {
+    "id": "mona-lisa",
+    "title": "Mona Lisa",
+    "file": "mona-lisa.jpg",
+    "thumb": "thumbs/mona-lisa.jpg",
+    "artist": "Leonardo da Vinci",
+    "year": "c. 1503",
+    "credit": "Leonardo da Vinci, Mona Lisa (c. 1503). Wikimedia Commons",
+    "license": "Public domain",
+    "w": 1920,
+    "h": 2861
+  },
+  {
+    "id": "pearl-earring",
+    "title": "Girl with a Pearl Earring",
+    "file": "pearl-earring.jpg",
+    "thumb": "thumbs/pearl-earring.jpg",
+    "artist": "Johannes Vermeer",
+    "year": "c. 1665",
+    "credit": "Johannes Vermeer, Girl with a Pearl Earring (c. 1665). Wikimedia Commons",
+    "license": "Public domain",
+    "w": 1920,
+    "h": 2274
+  },
+  {
+    "id": "great-wave",
+    "title": "The Great Wave off Kanagawa",
+    "file": "great-wave.jpg",
+    "thumb": "thumbs/great-wave.jpg",
+    "artist": "Katsushika Hokusai",
+    "year": "c. 1831",
+    "credit": "Katsushika Hokusai, The Great Wave off Kanagawa (c. 1831). Wikimedia Commons",
+    "license": "Public domain",
+    "w": 1920,
+    "h": 1291
+  },
+  {
+    "id": "marilyn-1953",
+    "title": "Marilyn Monroe, 1953",
+    "file": "marilyn-1953.jpg",
+    "thumb": "thumbs/marilyn-1953.jpg",
+    "credit": "Marilyn Monroe, 1953 publicity photograph. Wikimedia Commons",
+    "license": "Public domain",
+    "w": 1920,
+    "h": 2399
+  },
+  {
+    "id": "tuscany-val-dorcia",
+    "title": "Val d'Orcia in Autumn, Tuscany",
+    "file": "tuscany-val-dorcia.jpg",
+    "thumb": "thumbs/tuscany-val-dorcia.jpg",
+    "credit": "Val d'Orcia in Autumn, Tuscany. Wikimedia Commons",
+    "license": "CC0",
+    "w": 1920,
+    "h": 1440
+  }
+]

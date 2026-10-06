@@ -1,0 +1,32 @@
+Mosaiz Proprietary License
+
+Copyright (c) 2026 Mosaiz. All rights reserved.
+
+This software, including its source code, compiled and minified code, documentation, artwork, logos and
+other assets (together, the "Software"), is the property of the copyright holder and is protected by
+copyright law and international treaties.
+
+1. No licence is granted to copy, modify, merge, publish, distribute, sublicense, sell, rent, lease, host
+   or otherwise make the Software or any part of it available to any third party, in source or compiled
+   form, whether for free or for a fee, except with the prior written permission of the copyright holder.
+
+2. Visitors may use the publicly hosted Mosaiz website as an online service for their own personal use.
+   Files you create with the website from your own pictures (videos, images, 3D models, templates and
+   instructions) are yours to use.
+
+3. You may not reverse engineer, decompile, extract, scrape or reuse the Software's code, algorithms,
+   design or assets to build a competing or derivative product or service.
+
+4. Any copy of the Software that exists outside the copyright holder's own repositories and hosting,
+   including forks and mirrors, is unlicensed and must not be used, modified or distributed.
+
+5. Third-party components remain under their own licences (see package.json and node_modules). Sample
+   artworks in public/samples are public domain or CC0 and are credited in the README; this licence does
+   not restrict them.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+For permissions, contact the copyright holder through the Mosaiz website.
